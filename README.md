@@ -1,6 +1,6 @@
-# MSc in AI Capstone #2: Data and Statistical Reasoning Project
+# MSc in AI Capstone #2: Conduct a Statistical Analysis Using Python Project
 
-**Repository:** <https://github.com/PHIacademy/<repo-name>>
+**Repository:** <https://github.com/PHIacademy/conduct-a-statistical-analysis-using-python.git>
 
 ## Project Description
 
